@@ -1,0 +1,25 @@
+# Product Home Screen
+
+### Emby Family module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-emby-family) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Emby-Family/) | [FAQ](https://faq.puqcloud.com/)
+
+The end customer, after logging in to his own customer panel, has access to the following information and options
+
+- Link to the user manual (which was defined by the administrator when setting up the service.).
+- Emby server address
+- Authorization data
+- User informations
+- List of active devices
+- List of enabled user libraries
+- Drop all devices
+- Change the Emby user password
+- Add/Manage Emby Connect account
+- Add/Management/Delete Media Account
+- Drop Account Devices
+- List of Media Accounts
+
+
+##### Screenshot of the client area
+
+[![image-1720092837309.png](https://doc.puq.info/uploads/images/gallery/2024-07/scaled-1680-/image-1720092837309.png)](https://doc.puq.info/uploads/images/gallery/2024-07/image-1720092837309.png)

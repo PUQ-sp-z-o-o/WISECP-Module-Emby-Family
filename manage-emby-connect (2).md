@@ -1,0 +1,17 @@
+# Manage Emby Connect
+
+### Emby Family module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-emby-family) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Emby-Family/) | [FAQ](https://faq.puqcloud.com/)
+
+Here you can add an Emby Connect Username for main user
+
+<p class="callout info">If you leave the field empty, Emby Connect will be disabled.</p>
+
+<p class="callout warning">Register the email in **[Emby Connect](https://emby.media/connect.html).** </p>
+
+<p class="callout warning">One Emby Connect username can only be linked to one Emby account.</p>
+
+[![image-1720004547241.png](https://doc.puq.info/uploads/images/gallery/2024-07/scaled-1680-/image-1720004547241.png)](https://doc.puq.info/uploads/images/gallery/2024-07/image-1720004547241.png)
+
+[![image-1720004578016.png](https://doc.puq.info/uploads/images/gallery/2024-07/scaled-1680-/image-1720004578016.png)](https://doc.puq.info/uploads/images/gallery/2024-07/image-1720004578016.png)
